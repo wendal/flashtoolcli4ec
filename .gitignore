@@ -158,3 +158,19 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+tmp/ap_bootloader.bin
+tmp/ap.bin
+tmp/cp-demo-flash.bin
+tmp/image_info.json
+tmp/image_meta.json
+tmp/script.bin
+tmp/tmp.soc
+win32/ap_bootloader.bin
+win32/ap.bin
+win32/config.ini
+win32/cp-demo-flash.bin
+win32/script.bin
+win32/system.bin
+win32/cfg.digest
+gpiodemo.soc
+script.bin
