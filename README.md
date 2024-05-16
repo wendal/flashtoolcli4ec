@@ -1,0 +1,2 @@
+# flashtoolcli4ec
+把移芯方案的FlashToolCLI封装成脚本调用
